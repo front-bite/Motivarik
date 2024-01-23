@@ -19,6 +19,7 @@ body {
   height: 100vh;
   display: flex;
   justify-content: center;
+  overflow-x: hidden;
   /* Основные настройки шрифта */
   font-family: "Minecraft Cyrillic", serif;
   font-size: 0.625rem;
