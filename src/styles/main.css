@@ -16,7 +16,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 
 body {
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   overflow-x: hidden;
@@ -37,17 +37,17 @@ body {
 /* Общий контейнер */
 .container {
   width: 1200px;
-  height: 100%;
+  min-height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .wrapper {
-  height: inherit;
+  min-height: inherit;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-evenly;
   padding: 0px 24px 0px 24px;
 }
 
