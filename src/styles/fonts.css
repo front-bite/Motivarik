@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Minecraft Title Cyrillic';
+  src: url('../assets/fonts/Minecraft_Title_Cyrillic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Minecraft Cyrillic';
+  src: url('../assets/fonts/Minecraft_Cyrillic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}

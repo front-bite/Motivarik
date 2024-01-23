@@ -1,0 +1,20 @@
+/* Палитра цветов и теней проекта */
+:root {
+/* Белый */
+  --White-100: #fafafa;
+
+/* Тёмный */
+  --Dark-100: #1D0E46;
+  --Dark-40:rgba(29, 14, 70, 0.40);
+
+/* Фиолетовый */
+  --Violet-100: #9067FF;
+
+/* Жёлтый */
+  --Yellow-100: #FFD101;
+
+/* Тени */
+  --Btn-shadow-normal: 4px 4px 0px 0px #000;
+  --Btn-shadow-hover: 2px 2px 0px 0px #000;
+  --Text-shadow-normal: 0px 2px 0px #1D0E46;
+}
