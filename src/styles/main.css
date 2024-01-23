@@ -28,11 +28,11 @@ body {
   text-shadow: var(--Text-shadow-normal);
 }
 
-@media (max-width: 767px) {
-  body {
-	min-height: calc(100vh - 150px);
-  }
-}
+/*@media (max-width: 767px) {*/
+/*  body {*/
+/*	min-height: calc(100vh - 150px);*/
+/*  }*/
+/*}*/
 
 /* Общий контейнер */
 .container {
